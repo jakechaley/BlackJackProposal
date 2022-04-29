@@ -1,0 +1,1 @@
+<img src="CapstoneProposal.png" width="auto">
