@@ -43,3 +43,16 @@ Lots of work today was reading/watching videos/finding assets to use for the pro
 * 2:10 Work on a rough sketch of Gameplay mock ups
 * 3:10 Watch videos on React to help better understanding
 * 4:15 Look at other repo's to get an idea for file structure
+* 4:53 Update README. Make final commit. End Day.
+
+Today was another full day of planning. I think I'm ready to start the actual coding process. Nervous about how the actual file structure should look. Still nailing down exactly how that should look.
+
+## Assets found:
+
+* [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+* [Youtube video about CommandLine Black Jack](https://www.youtube.com/watch?v=u0psz11KEVI)
+
+## Some Planning from today:
+
+![](BJappplanning1.jpg)
+![](BJplanning2.jpg)
