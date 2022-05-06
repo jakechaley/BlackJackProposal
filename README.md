@@ -21,3 +21,8 @@ Lots of work today was reading/watching videos/finding assets to use for the pro
 * [Deck of Cards API](https://deckofcardsapi.com/)
 * [Video of Developer Reviewing Black Jack app](https://www.youtube.com/watch?v=69fcMxk3pq0&t=1356s)
 * [Video demo of a Black jack app](https://www.youtube.com/watch?v=Es5kJumQYdI&t=4s)
+
+### Research & Planning Log
+#### Friday, 05/06
+
+* 8:10 Set up Trello Board to start more planning.
