@@ -40,3 +40,4 @@ Lots of work today was reading/watching videos/finding assets to use for the pro
 * 11:11 Begin reading "Thinking in React" to get a better understanding of how I may want to structure/build my App
 * 12:00 Go to lunchhhhhhhhhh
 * 1:00 Return from lunch/continue research
+* 2:10 Work on a rough sketch of Gameplay mock ups
