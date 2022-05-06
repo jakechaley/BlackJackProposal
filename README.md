@@ -41,3 +41,4 @@ Lots of work today was reading/watching videos/finding assets to use for the pro
 * 12:00 Go to lunchhhhhhhhhh
 * 1:00 Return from lunch/continue research
 * 2:10 Work on a rough sketch of Gameplay mock ups
+* 3:10 Watch videos on React to help better understanding
