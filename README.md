@@ -26,3 +26,4 @@ Lots of work today was reading/watching videos/finding assets to use for the pro
 #### Friday, 05/06
 
 * 8:10 Set up Trello Board to start more planning.
+* 9:13 Continue working on Trello board
