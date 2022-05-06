@@ -38,3 +38,4 @@ Lots of work today was reading/watching videos/finding assets to use for the pro
 * 9:13 Continue working on Trello board
 * 10:15 Continue Working on Trello board/Work on adding user stories to README upon Chris' suggestion.
 * 11:11 Begin reading "Thinking in React" to get a better understanding of how I may want to structure/build my App
+* 12:00 Go to lunchhhhhhhhhh
