@@ -1,3 +1,12 @@
+## MVP / BROKEN DOWN USER STORIES
+* A user should be able to click a "Deal" button to begin playing
+* A user should be able to continually play Black Jack for as many hands as they want
+* A user should have a button option to "Hit" (Get another card added to their hand)
+* A user should have a button option to "Stay" (End your turn)
+* A user should have a button option to "Deal" (Start a new hand) when either the player or dealer busts but not before
+* To start out, the dealer loses automatically if player's hand beats dealer's hand. (meaning the dealer doesn't have to hit to get at least 17)
+* If player's hand goes above 21, they should "Bust" (Game Over)
+
 ### Research & Planning Log
 #### Friday, 04/29
 
@@ -28,3 +37,4 @@ Lots of work today was reading/watching videos/finding assets to use for the pro
 * 8:10 Set up Trello Board to start more planning.
 * 9:13 Continue working on Trello board
 * 10:15 Continue Working on Trello board/Work on adding user stories to README upon Chris' suggestion.
+* 11:11 Begin reading "Thinking in React" to get a better understanding of how I may want to structure/build my App
