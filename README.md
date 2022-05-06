@@ -27,3 +27,4 @@ Lots of work today was reading/watching videos/finding assets to use for the pro
 
 * 8:10 Set up Trello Board to start more planning.
 * 9:13 Continue working on Trello board
+* 10:15 Continue Working on Trello board/Work on adding user stories to README upon Chris' suggestion.
