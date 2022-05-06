@@ -42,3 +42,4 @@ Lots of work today was reading/watching videos/finding assets to use for the pro
 * 1:00 Return from lunch/continue research
 * 2:10 Work on a rough sketch of Gameplay mock ups
 * 3:10 Watch videos on React to help better understanding
+* 4:15 Look at other repo's to get an idea for file structure
